@@ -1,0 +1,14 @@
+Folder PATH listing
+Volume serial number is 000000B6 900C:D08C
+C:.
+    mnist.py
+    mnist.pyc
+    perceptron.py
+    t10k-images.idx3-ubyte
+    t10k-labels.idx1-ubyte
+    test.txt
+    train-images.idx3-ubyte
+    train-labels.idx1-ubyte
+    
+No subfolders exist 
+
